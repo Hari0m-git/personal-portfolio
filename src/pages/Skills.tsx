@@ -21,7 +21,7 @@ const Skills = () => {
         { name: 'MATLAB', logo: '/logos/matlab.png' },
         { name: 'Chroma DB', logo: '/logos/chroma.png' },
         { name: 'Git', logo: '/logos/git.png' },
-        { name: 'HTML', logo: 'logos/html.png' },
+        { name: 'HTML', logo: '/logos/html.png' },
         { name: 'CSS', logo: '/logos/css.png' },
         { name: 'Azure Cloud', logo: '/logos/azure.png' },
       ],
