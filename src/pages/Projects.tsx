@@ -11,7 +11,7 @@ import {
   Chip,
   Box,
 } from '@mui/material';
-import { GitHub, Launch } from '@mui/icons-material';
+import { GitHub } from '@mui/icons-material';
 import { motion } from 'framer-motion';
 
 const Projects = () => {
