@@ -15,16 +15,16 @@
       "dest": "/static/$1"
     },
     {
-      "src": "/favicon.ico",
-      "dest": "/favicon.ico"
+      "src": "/logos/(.*)",
+      "dest": "/logos/$1"
     },
     {
-      "src": "/manifest.json",
-      "dest": "/manifest.json"
+      "src": "/projects/(.*)",
+      "dest": "/projects/$1"
     },
     {
-      "src": "/logo192.png",
-      "dest": "/logo192.png"
+      "src": "/(.+\\.[a-zA-Z]+)$",
+      "dest": "/$1"
     },
     {
       "src": "/(.*)",
